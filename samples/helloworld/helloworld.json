@@ -45,13 +45,13 @@
         "id": "OutputData",
         "name": "OutputData",
         "type": "S3DataNode",
-        "filePath": "s3://joshtok-test/abc"
+        "filePath": "s3://pmtrx-tmp/abc"
     },
     {
         "id": "OutputData2",
         "name": "OutputData",
         "type": "S3DataNode",
-        "filePath": "s3://joshtok-test/def"
+        "filePath": "s3://pmtrx-tmp/def"
     }
   ],
 "parameters": [
